@@ -1,1 +1,1 @@
-web: gunicorn appcda4:app
+web: gunicorn appcda:app
